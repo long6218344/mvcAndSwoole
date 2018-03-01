@@ -15,15 +15,8 @@ MVC + php7 + swoole
     3. 代码可读性
     4. 单一入口  index.php
 
-3. 缺点
-    执行效率有所降低    oop
-    学习难度较大
-
-4. MVC 实例
-    s62_mvc
-    https://git.oschina.net/btchc/s62_mvc.git
-
-    4.1 mvc 1.0
+3. MVC 实例
+    3.1 mvc 1.0
         目录结构
         |-- models        模型层
         |-- views         视图层
@@ -35,10 +28,10 @@ MVC + php7 + swoole
             index.php?c=控制器名&a=方法名
             index.php?c=goods&a=edit
 
-    4.2 mvc 2.0
+    3.2 mvc 2.0
         自动加载类
 
-    4.3 mvc 3.0
+    3.3 mvc 3.0
         目录结构
         |-- models        模型层
         |-- views         视图层
@@ -52,7 +45,7 @@ MVC + php7 + swoole
 
         引入模版引擎
 
-    4.4 mvc 4.0
+    3.4 mvc 4.0
         添加 控制基类
 
     4.5 mvc 5.0
