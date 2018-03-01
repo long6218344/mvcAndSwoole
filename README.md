@@ -1,7 +1,4 @@
-#s62_mvc
-
-
-MVC
+MVC + php7 + swoole
 =========================
 1. mvc 的定义
     M   Model       模型层
